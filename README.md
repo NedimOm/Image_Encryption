@@ -1,2 +1,2 @@
 # Image_Encryption
-Encrypting image using Rubik's cube method.
+Encrypting and decrypting image using Rubik's cube method.
